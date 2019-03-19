@@ -4,6 +4,7 @@ Just install this https://github.com/apps/texify save your file with extension *
 ## Explanation
 For example take the following code block and place it in between. 
 
+\mathbf{x} = \begin{bmatrix} x_1\\ x_2\\ \vdots\\ x_n \end{bmatrix}
 
 it will become this next time you git push:
 $\mathbf{x} = \begin{bmatrix}
