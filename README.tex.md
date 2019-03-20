@@ -7,6 +7,7 @@ For example take the following code block and place it in between **\$**.
 y_i& \approx \beta_0 + \beta_1 x_{i1} + .. + \beta_N x_{iN}
 ```
 it will become this next time you git push:
+
 $y_i& \approx \beta_0 + \beta_1 x_{i1} + .. + \beta_N x_{iN}$
 
 **NOTE:** I noticed that the next time you git push you will be prompted to git pull to save locally those images that were created by the app in the folder tex.
